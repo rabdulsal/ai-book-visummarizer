@@ -4,3 +4,5 @@ instance/
 .env
 *.p12  # For Google Cloud service account keys
 output/  # Generated files during execution
+static/generated_images
+.DS_Store
